@@ -10,8 +10,8 @@ description = "Prevent ProcessTreeKiller from reaping Gradle daemons"
 jenkinsPlugin {
     coreVersion = "2.11"
     displayName = "Gradle Daemon saver"
-    url = "https://github.com/gradle-community/jenkins-gradle-daemon"
-    gitHubUrl = "https://github.com/gradle-community/jenkins-gradle-daemon"
+    url = "https://github.com/jenkinsci/jenkins-gradle-daemon"
+    gitHubUrl = "https://github.com/jenkinsci/jenkins-gradle-daemon"
     shortName = "gradle-daemon"
 
     developers {
@@ -25,7 +25,7 @@ jenkinsPlugin {
     licenses {
         license {
             name 'MIT license'
-            url 'https://github.com/gradle-community/jenkins-gradle-daemon/blob/master/LICENSE'
+            url 'https://github.com/jenkinsci/jenkins-gradle-daemon/blob/master/LICENSE'
             distribution 'repo'
         }
     }
