@@ -2,6 +2,7 @@ This plugin prevents the [ProcessTreeKiller](https://wiki.jenkins.io/display/JEN
 
 Updated manifest generation:
 
+```text
 Manifest-Version: 1.0
 Support-Dynamic-Loading: true
 Implementation-Title: gradle-daemon
@@ -29,3 +30,4 @@ Compatible-Since-Version: 2.525
 PluginFirstClassLoader: true
 Plugin-Version: 0.2.0-SNAPSHOT (private-2025-08-26T18:14:36Z-aarav)
 Plugin-Developers: Aarav Mahajan:aarav:aaravmahajan2003@gmail.com
+```
